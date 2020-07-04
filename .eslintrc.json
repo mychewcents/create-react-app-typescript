@@ -27,6 +27,7 @@
     }
   },
   "rules": {
+    "linebreak-style": ["error", "windows"],
     "react/jsx-props-no-spreading": "off",
     "@typescript-eslint/camelcase": "off",
     "react/prop-types": "off",
